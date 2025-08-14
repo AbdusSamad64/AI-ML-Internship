@@ -36,7 +36,7 @@ Learn how to load, inspect, and visualize a dataset to understand data trends an
 ---
 
 ## **Code**
-The complete Python code for this analysis is available in [`iris_dataset_analysis.py`](iris_dataset_analysis.py).
+The complete Python code for this analysis is available in [`Task1_Iris_Datset.ipynb`](Task1_Iris_Datset.ipynb).
 
 ---
 
