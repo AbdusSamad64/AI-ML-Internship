@@ -34,9 +34,14 @@ Each folder includes:
 ---
 
 ## 📌 Contents
+#(First Period)
 - **Task 1:** Iris dataset
 - **Task 2:** Stock Price Prediction (Time Series Regression)
 - **Task 3:** Heart Disease Prediction (Classification)
-- *(More tasks will be added as the internship progresses)*
+
+#(Second Period)
+- **Task 1:** News Topic Classifier
+- **Task 2:** End to End ML Pipeline with Scikit-learn Pipeline API
+- **Task 3:** Auto Tagging Support Tickets Using LLM
 
 ---
