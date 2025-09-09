@@ -22,12 +22,6 @@ The model is trained using the **Hugging Face Transformers** and **Datasets** li
   - 2 → Business  
   - 3 → Sci/Tech  
 
-Each sample contains:  
-```json
-{
-  "text": "Wall St. Bears Claw Back Into the Black (Reuters) Reuters - Short-sellers...",
-  "label": 2
-}
 
 ## ⚙️ Methodology
 
